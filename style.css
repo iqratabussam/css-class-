@@ -1,0 +1,81 @@
+body{
+    /* border: 2px solid ; */
+    height: 50%;
+    /* width: 1000px; */
+}
+
+#htwth{
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+    /* max-height: 500px; */
+    /* min-height: 200px; */
+     /* max-width: 200px; */
+     /* min-width: 200px; */
+}
+/* padding  */
+#padding{
+    border:2px solid red;
+    /* padding-top: 30PX ; */
+    /* padding-right: 20px; */
+    /* padding-bottom: 40px; */
+    /* padding-left: 50px; */
+
+    padding: 20px 50px;
+}
+/* margin */
+.div1{
+    border: 2px solid red;
+    padding: 30px 30px;
+}
+/* body{ */
+    /* border:5px dotted black; */
+
+/* } */
+#marg{
+    /* margin-top: 60px; */
+    /* margin-right: 50px; */
+    /* margin-bottom: 80px; */
+    /* margin-left: 70px; */
+    /* margin: 50px 80px; */
+    /* width: 200px; */
+    /* margin:20px auto; */
+    margin-top: 20px;
+}
+/*Margin coleps */
+#colaps{
+    margin-bottom:  50px;
+}
+/* text */
+.text{
+    border: 1px solid black;
+    color: blue;
+    width: 500px;
+    height: 10 0px;
+    text-align: justify;
+    /* text-decoration:underline; */
+    /* text-decoration:line-through; */
+    /* text-decoration:overline; */
+    text-transform: capitalize;
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+    line-height: 30px;
+    text-indent: 30px;
+    /* letter-spacing: 30px; */
+    /* word-spacing: 10px; */
+    /* white-space:pre-line; */
+
+}
+/* text shadow */
+#shadow{
+    font-size: 70px;
+    text-shadow: 3px -10px 8px red;
+}
+#word{
+    writing-mode:vertical-rl;
+    border: 2px solid black;
+    width: 500px;
+    
+}
+
+
